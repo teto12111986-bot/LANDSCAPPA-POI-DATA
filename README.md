@@ -1,0 +1,2 @@
+# LANDSCAPPA-POI-DATA
+OpenStreetMap POI data for LANDSCAPPA
